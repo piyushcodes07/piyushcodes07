@@ -23,11 +23,11 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         <img width="900" height="1" alt="">
       </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
     <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
+  </tr> -->
+  <!-- <tr>
         <td  align="center">
         <details open><summary>Classic charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img></details>
         <details><summary>Graph charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.graph.svg" alt=""></img></details>
@@ -39,7 +39,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
         <details><summary>Compact display in base plugin</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
-  </tr>
+  </tr> -->
   <tr>
     <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
     <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
