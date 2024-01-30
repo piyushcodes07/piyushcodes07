@@ -3,13 +3,13 @@
 
 - 💬 Ask me about **Full stack web and distributed systems.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/piyushcodes/**
+- 📫 How to reach me [My LinkedIn.](https://www.linkedin.com/in/piyushcodes/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/110cCR2XdxoXP0ILSVxPExPk1vBt2zdoO/view?usp=sharing](https://drive.google.com/file/d/110cCR2XdxoXP0ILSVxPExPk1vBt2zdoO/view?usp=sharing)
+- 📄 Know about my experiences [My Resume.](https://drive.google.com/file/d/110cCR2XdxoXP0ILSVxPExPk1vBt2zdoO/view?usp=sharing)
 
 - ⚡ Fun fact **The language is named ‘C‘ just because it succeeded another programming language named ‘B’!**
 
-### Blogs posts
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
